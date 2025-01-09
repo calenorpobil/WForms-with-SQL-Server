@@ -1,0 +1,10 @@
+C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\bin\Debug\BBDDInterfaces.exe.config
+C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\bin\Debug\BBDDInterfaces.exe
+C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\bin\Debug\BBDDInterfaces.pdb
+C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\obj\Debug\BBDDInterfaces.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\obj\Debug\BBDDInterfaces.Form1.resources
+C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\obj\Debug\BBDDInterfaces.Properties.Resources.resources
+C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\obj\Debug\BBDDInterfaces.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\obj\Debug\BBDDInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\obj\Debug\BBDDInterfaces.exe
+C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\obj\Debug\BBDDInterfaces.pdb
