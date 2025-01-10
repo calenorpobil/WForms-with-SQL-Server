@@ -8,3 +8,13 @@ C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\obj\Debug\BBDDInterfa
 C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\obj\Debug\BBDDInterfaces.csproj.CoreCompileInputs.cache
 C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\obj\Debug\BBDDInterfaces.exe
 C:\Users\Carlos\source\repos\BBDDInterfaces\BBDDInterfaces\obj\Debug\BBDDInterfaces.pdb
+E:\Desarollo de interfaces\T4\WForms-with-SQL-Server\BBDDInterfaces\bin\Debug\BBDDInterfaces.exe.config
+E:\Desarollo de interfaces\T4\WForms-with-SQL-Server\BBDDInterfaces\bin\Debug\BBDDInterfaces.exe
+E:\Desarollo de interfaces\T4\WForms-with-SQL-Server\BBDDInterfaces\bin\Debug\BBDDInterfaces.pdb
+E:\Desarollo de interfaces\T4\WForms-with-SQL-Server\BBDDInterfaces\obj\Debug\BBDDInterfaces.csproj.AssemblyReference.cache
+E:\Desarollo de interfaces\T4\WForms-with-SQL-Server\BBDDInterfaces\obj\Debug\BBDDInterfaces.Form1.resources
+E:\Desarollo de interfaces\T4\WForms-with-SQL-Server\BBDDInterfaces\obj\Debug\BBDDInterfaces.Properties.Resources.resources
+E:\Desarollo de interfaces\T4\WForms-with-SQL-Server\BBDDInterfaces\obj\Debug\BBDDInterfaces.csproj.GenerateResource.cache
+E:\Desarollo de interfaces\T4\WForms-with-SQL-Server\BBDDInterfaces\obj\Debug\BBDDInterfaces.csproj.CoreCompileInputs.cache
+E:\Desarollo de interfaces\T4\WForms-with-SQL-Server\BBDDInterfaces\obj\Debug\BBDDInterfaces.exe
+E:\Desarollo de interfaces\T4\WForms-with-SQL-Server\BBDDInterfaces\obj\Debug\BBDDInterfaces.pdb
